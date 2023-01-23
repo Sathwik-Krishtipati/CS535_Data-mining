@@ -1,6 +1,8 @@
 # Data-mining
 
-Topic 2: Image Generation with Probabilistic Diffusion Models
+#### The following projects were in collaboration with Teresa Chu, Kaushal Thakar, Kishore Kumar Basam, Vikas Kiran Nadikuda for the CS 535 Data mining course
+
+### TOPIC 2 : Image Generation with Probabilistic Diffusion Models
  
 
 Reference paper:
@@ -22,9 +24,11 @@ Problem 3: Test DDPM on the mixture of 8 Gaussians and 25 Gaussians respectively
 
 Problem 4: Test DDPM on MNIST dataset. Visualize the denoising process (You should output a figure like Fig. 6 in the paper).
  
-Problem 5: Perform an interpolation experiment with your trained model from Problem 4 (You should output a figure like Fig. 8 in the paper). 
+Problem 5: Perform an interpolation experiment with your trained model from Problem 4 (You should output a figure like Fig. 8 in the paper).
+
+
  
-Topic 3: Image Classification with Normalizing Flows
+### TOPIC 3: Image Classification with Normalizing Flows
  
  
 Reference papers: 
